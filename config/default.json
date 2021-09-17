@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://spray:spraymachine123@cluster0.ov0ed.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"ourspraysecret"
+}
